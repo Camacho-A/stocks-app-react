@@ -4,9 +4,9 @@ import {
     Route,
 } from "react-router-dom";
 import App from './App';
-// import Main from './pages/main'
-// import Stocks from './pages/stocks';
-// import About from './pages/about';
+import Main from './pages/main';
+import Stocks from './pages/stocks';
+import About from './pages/about';
 import { stocksLoader } from "./loaders";
 import Show from "./pages/show";
 
